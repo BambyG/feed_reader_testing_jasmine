@@ -33,7 +33,7 @@ Here are the following test written:
 
 # Contributing 
 
-This project was written by Bamby Gassama inspired by Udacity Nanodegree 3nd project assignment. 
+This project was written by Bamby Gassama inspired by Udacity Nanodegree 4th project assignment. 
 
 # Licence
 
