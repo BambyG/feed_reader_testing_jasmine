@@ -3,22 +3,6 @@
 For this project, I am given a web-based application that reads RSS feeds that needs several test suits to be written using [Jasmine](http://jasmine.github.io/). 
 
 
-# The tests suits
-
-Here are the following test written: 
-
-- a test that loops through each feed in the `allFeeds` object and ensures it has a URL defined _and_ that the URL is not empty
-
-- a test that loops through each feed in the `allFeeds` object and ensures it has a name defined and that the name is not empty
- 
-- a test that ensures the menu element is hidden by default
-
-- a test that ensures the menu changes visibility when the menu icon is clicked. 
-
-- a test that ensures when the `loadFeed` function is called and completes its work, there is at least a single `.entry` element within the `.feed` container
-
-- a test that ensures when a new feed is loaded by the `loadFeed` function that the content actually changes
-
 # Technologies
 
 * HMTL
@@ -27,8 +11,12 @@ Here are the following test written:
 
 # Launch
 
+1. Clone the project from GitHub.
+2. Open the index.html file to check the feeds and test suites
+
  The project does not have minimum hardware requirements.
- Just view the HTML Page in Your Browser.
+ 
+Test example: ensures the menu element is hidden by default.
 
 
 # Contributing 
